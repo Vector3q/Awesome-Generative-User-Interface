@@ -1,3 +1,5 @@
+[**Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces.**](https://yuejiang-nj.github.io/Publications/2024CHI_Graph4GUI/project_page/main.html)  _Jiang et al._ CHI 2024.
+
 [**Misty: UI Prototyping Through Interactive Conceptual Blending.**](https://dl.acm.org/doi/full/10.1145/3706598.3713924) _You et al._ CHI 2025.
 
 [**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs.**](https://arxiv.org/abs/2404.05719) _You et al._ Arxiv 2024.
