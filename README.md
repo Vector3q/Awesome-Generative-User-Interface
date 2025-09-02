@@ -15,3 +15,5 @@
 [**pix2code: Generating Code from a Graphical User Interface Screenshot.**](https://dl.acm.org/doi/10.1145/3220134.3220135) _Beltramelli et al._ EICS 2018.
 
 [**Learning Design Semantics for Mobile Apps.**](https://dl.acm.org/doi/abs/10.1145/3242587.3242650) _Liu et al._ UIST 2018.
+
+[**Rico: A Mobile App Dataset for Building Data-Driven Design Applications.**](https://dl.acm.org/doi/10.1145/3126594.3126651) _Deka et al._ UIST 2017.
