@@ -9,6 +9,8 @@
 
 [**Generating Automatic Feedback on UI Mockups with Large Language Models.**](https://dl.acm.org/doi/10.1145/3613904.3642782) _You et al._ CHI 2024.
 
+[**WebUI: A Dataset for Enhancing Visual UI Understanding with Web Semantics.**](https://dl.acm.org/doi/abs/10.1145/3490099.3511109) Wu et al._ CHI 2023.
+
 [**UIBert: Learning Generic Multimodal Representations for UI Understanding.**](https://arxiv.org/abs/2107.13731) _Bai et al._ IJCAI 2021.
 
 [**Screen2Vec: Semantic Embedding of GUI Screens and GUI Components.**](https://dl.acm.org/doi/10.1145/3411764.3445049) _Li et al._ UIST 2021.
