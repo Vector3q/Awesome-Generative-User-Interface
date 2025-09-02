@@ -1,3 +1,5 @@
+[**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs.**](https://arxiv.org/abs/2404.05719) _You et al._ Arxiv 2024.
+
 [**UIBert: Learning Generic Multimodal Representations for UI Understanding.**](https://arxiv.org/abs/2107.13731) _Bai et al._ IJCAI 2021.
 
 [**Screen2Vec: Semantic Embedding of GUI Screens and GUI Components.**](https://dl.acm.org/doi/10.1145/3411764.3445049) _Li et al._ UIST 2021.
