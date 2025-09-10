@@ -1,5 +1,11 @@
 
+
+
 [**Athena: Intermediate Representations for Iterative Scaffolded App Generation with an LLM.**](https://arxiv.org/abs/2508.20263)  _Beason et al._ Arxiv 2025.
+
+[**Generative and Malleable User Interfaces with Generative and Evolving Task-Driven Data Model.**](https://dl.acm.org/doi/10.1145/3706598.3713285)  _Cao et al._ CHI 2025.
+
+[**Malleable Overview-Detail Interfaces.**](https://dl.acm.org/doi/10.1145/3706598.3714164)  _Min et al._ CHI 2025.
 
 [**Misty: UI Prototyping Through Interactive Conceptual Blending.**](https://dl.acm.org/doi/full/10.1145/3706598.3713924) _Lu et al._ CHI 2025.
 
